@@ -104,9 +104,6 @@ Deep learning chess engine trained on real games to predict human-like moves usi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansariusaid&layout=compact&theme=radical&hide_border=true)
 
-<br/>
-
-![Snake animation](https://raw.githubusercontent.com/AnsariUsaid/AnsariUsaid/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
