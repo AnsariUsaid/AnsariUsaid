@@ -19,10 +19,10 @@
 
 ## 🎓 About Me
 
-I'm a 3rd-year B.Tech Computer Science student at **Vellore Institute of Technology** (CGPA: **8.86/10**) with a strong foundation in **full-stack development**, **data engineering**, and **AI/ML**. I build scalable production-grade applications — from GraphQL-backed CRMs and cloud-deployed SQL systems to research-grade NLP models.
+I'm a final-year B.Tech Computer Science student at **Vellore Institute of Technology** (CGPA: **8.86/10**) with a strong foundation in **full-stack development**, **mobile development**, **data engineering**, and **AI/ML**. I build scalable production-grade applications — from GraphQL-backed CRMs and cloud-deployed SQL systems to research-grade NLP models.
 
-- 🔭 Currently building: **Ascend** — a React Native mobile app
-- 🌱 Deep-diving into: React Native, data warehousing, and system design
+- 🚀 Shipped: **Ascend** — live on the [Google Play Store](https://play.google.com/store/apps/details?id=me.ansariusaid.ascend)
+- 🌱 Deep-diving into: data warehousing, system design, and Android native modules
 - 🏆 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 - 🎯 CGPA: 8.86/10 | Expected Graduation: 2027
 
@@ -73,6 +73,10 @@ I'm a 3rd-year B.Tech Computer Science student at **Vellore Institute of Technol
 ---
 
 ## 🚀 Featured Projects
+
+### 📱 [Ascend — Screen-Time Manager](https://github.com/AnsariUsaid/Ascend) · [Google Play](https://play.google.com/store/apps/details?id=me.ansariusaid.ascend) · [Site](https://ascend.ansariusaid.me)
+**Live on the Google Play Store** — a 17-screen Android app shipped as a paid client engagement. Replaces hard app-blocks with escalating math, trivia, logic, and typing challenges that users clear to earn timed grace periods. A custom Kotlin native module (Expo Modules API) bridges Android `UsageStatsManager`, `PackageManager`, and overlay APIs for per-app usage tracking on a reboot-surviving foreground service hardened for OEM battery optimization.  
+**Tech:** React Native · Expo · TypeScript · Kotlin · EAS Build · Google Play Console
 
 ### 💼 [SalesFlow CRM](https://github.com/AnsariUsaid/salesflow-CRM)
 Full-stack CRM for automobile parts sales with role-based access control, order lifecycle tracking, and procurement management.  
